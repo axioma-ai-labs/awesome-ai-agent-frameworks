@@ -155,7 +155,7 @@ Data-centric agents built on top of strong RAG primitives. You get clean agent a
 
 ---
 
-### 🏅 5. [LangGraph](https://github.com/langchain-ai/langgraph) <a name="langgraph"></a>
+### 5. [LangGraph](https://github.com/langchain-ai/langgraph) <a name="langgraph"></a>
 
 Graph/state-machine approach for building stateful, recoverable agent loops with optional checkpointing and persistence. Great when auditability matter more than “auto” magic. Quite heavy!
 
@@ -180,7 +180,7 @@ Graph/state-machine approach for building stateful, recoverable agent loops with
 
 ---
 
-### 🏅 6. [AutoGen](https://microsoft.github.io/autogen/) <a name="autogen"></a>
+### 6. [AutoGen](https://microsoft.github.io/autogen/) <a name="autogen"></a>
 
 Event-driven multi-agent framework where agents (human, assistant, tool, evaluator) converse, collaborate, and call tools. Includes patterns like GroupChat and a visual Studio for orchestration and inspection.
 
