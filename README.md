@@ -1,5 +1,5 @@
 <h1 align="center">
-	⚡ Awesome AI Agents Frameworks ⚡
+	⚡ Awesome AI Agent Frameworks ⚡
 </h1>
 
 > Last updated: 2025-09-02
