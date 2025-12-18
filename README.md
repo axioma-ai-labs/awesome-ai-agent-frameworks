@@ -235,8 +235,9 @@ Event-driven multi-agent framework where agents (human, assistant, tool, evaluat
 
 The frameworks below were **NEVER** tested by us, but they've been on our radar and timeline quite often, so maybe you can check them out first :)
 
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Fastest multi-agent framework (3.77μs instantiation), 100+ LLM support via LiteLLM, MCP Protocol integration, agentic workflows (route/parallel/loop/repeat), built-in memory, self-reflection, and both Python & JavaScript SDKs. Production-ready with simple 2-line agent creation.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Classic autonomous agent project; great for experiments and understanding long-running loops. Ideal for self-contained tasks like market research, but watch for potential API cost overruns.
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — Multi-agent “company-as-code” pattern with research-friendly team roles (PM/Eng/QA). Excels in simulating collaborative workflows for prototyping complex systems.
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — Multi-agent "company-as-code" pattern with research-friendly team roles (PM/Eng/QA). Excels in simulating collaborative workflows for prototyping complex systems.
 - [Camel-AI](https://github.com/camel-ai/camel) — Role-playing agents with conversation curricula for cooperative task-solving. Strong for research-driven scenarios requiring structured multi-agent interactions.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Computer-use/desktop-control agents for browser and OS actions. Perfect for grounded tasks like automating desktop workflows or testing UI interactions.
 - [AgentScope](https://github.com/agentscope-ai/agentscope) — Alibaba’s framework for building and evaluating scalable multi-agent systems. Suited for large-scale, enterprise-grade applications with robust evaluation needs.
