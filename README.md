@@ -27,6 +27,7 @@ Note: A longer, more detailed version of this list is available as an article [h
 6. [AutoGen](#autogen)
 7. [Haystack Agents](#haystack)
 8. [Other Frameworks](#otherframeworks)
+9. [Identity Infrastructure](#identity)
 
 ---
 
@@ -247,3 +248,9 @@ The frameworks below were **NEVER** tested by us, but they've been on our radar 
 - [n8n](https://n8n.io/) — Workflow automation platform with AI capabilities for integrating agent-like tasks. Perfect for connecting APIs and automating business processes with minimal coding.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) — Open platform for hosting and using language agents in real-world scenarios. Strong for community-driven, extensible agent deployments.
 - [Lindy](https://www.lindy.ai/) — AI agent platform for creating and managing business agents with simple prompts. Ideal for startups needing quick, user-friendly automation solutions.
+
+---
+
+### 9. Identity Infrastructure <a name="identity"></a>
+
+- [Chitin](https://chitin.id) ([GitHub](https://github.com/Tiida-Tech/chitin-contracts)) — On-chain identity infrastructure for AI agents. Provides Soulbound Token birth certificates (EIP-5192), ERC-8004 agent passports, W3C DID resolution, verifiable certificates, and multi-method governance voting on Base L2.
