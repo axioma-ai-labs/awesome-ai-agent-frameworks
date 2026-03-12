@@ -235,6 +235,7 @@ Event-driven multi-agent framework where agents (human, assistant, tool, evaluat
 
 The frameworks below were **NEVER** tested by us, but they've been on our radar and timeline quite often, so maybe you can check them out first :)
 
+- [Agent Factory](https://github.com/shuanbao0/agent-factory) — Self-contained multi-agent collaboration platform with 64 built-in role templates, Dashboard UI with pixel-art office, and CEO-driven autopilot mode. Built with TypeScript/Next.js, supports 15+ LLM providers.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Classic autonomous agent project; great for experiments and understanding long-running loops. Ideal for self-contained tasks like market research, but watch for potential API cost overruns.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — Multi-agent “company-as-code” pattern with research-friendly team roles (PM/Eng/QA). Excels in simulating collaborative workflows for prototyping complex systems.
 - [Camel-AI](https://github.com/camel-ai/camel) — Role-playing agents with conversation curricula for cooperative task-solving. Strong for research-driven scenarios requiring structured multi-agent interactions.
