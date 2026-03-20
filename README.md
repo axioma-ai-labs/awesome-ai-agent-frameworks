@@ -246,4 +246,5 @@ The frameworks below were **NEVER** tested by us, but they've been on our radar 
 - [PromptFlow](https://github.com/microsoft/promptflow) — Microsoft’s tool for developing and evaluating LLM-based flows. Excels in structured prompt engineering and testing for enterprise-grade applications.
 - [n8n](https://n8n.io/) — Workflow automation platform with AI capabilities for integrating agent-like tasks. Perfect for connecting APIs and automating business processes with minimal coding.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) — Open platform for hosting and using language agents in real-world scenarios. Strong for community-driven, extensible agent deployments.
+- [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Open-source multi-agent orchestration platform with a built-in web dashboard. Manages AI agent teams through a full task lifecycle with role-based assignments, a knowledge base, and autopilot mode. Local-first, zero cloud dependency. Built on Claude Code.
 - [Lindy](https://www.lindy.ai/) — AI agent platform for creating and managing business agents with simple prompts. Ideal for startups needing quick, user-friendly automation solutions.
