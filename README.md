@@ -246,4 +246,5 @@ The frameworks below were **NEVER** tested by us, but they've been on our radar 
 - [PromptFlow](https://github.com/microsoft/promptflow) — Microsoft’s tool for developing and evaluating LLM-based flows. Excels in structured prompt engineering and testing for enterprise-grade applications.
 - [n8n](https://n8n.io/) — Workflow automation platform with AI capabilities for integrating agent-like tasks. Perfect for connecting APIs and automating business processes with minimal coding.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) — Open platform for hosting and using language agents in real-world scenarios. Strong for community-driven, extensible agent deployments.
+- [Agent Guard](https://github.com/Aveerayy/agent-guard) — Open-source runtime governance firewall for AI agents. Policy enforcement (<0.1ms), MCP security scanning, zero-trust Ed25519 identity, execution sandboxing, and kill switch. Drop-in with LangChain, OpenAI, CrewAI, AutoGen. 10/10 OWASP Agentic Top 10.
 - [Lindy](https://www.lindy.ai/) — AI agent platform for creating and managing business agents with simple prompts. Ideal for startups needing quick, user-friendly automation solutions.
