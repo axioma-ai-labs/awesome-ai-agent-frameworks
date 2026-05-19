@@ -247,3 +247,4 @@ The frameworks below were **NEVER** tested by us, but they've been on our radar 
 - [n8n](https://n8n.io/) — Workflow automation platform with AI capabilities for integrating agent-like tasks. Perfect for connecting APIs and automating business processes with minimal coding.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) — Open platform for hosting and using language agents in real-world scenarios. Strong for community-driven, extensible agent deployments.
 - [Lindy](https://www.lindy.ai/) — AI agent platform for creating and managing business agents with simple prompts. Ideal for startups needing quick, user-friendly automation solutions.
+- [Hermit](https://github.com/orca-ai-admin/hermit) — Self-evolving agent framework that enforces behavior via shell scripts instead of system prompt rules. 11 enforcement gates, self-improvement engine, memory consolidation. Built from 3+ months of 24/7 production use. No SDK — just markdown and shell scripts.
