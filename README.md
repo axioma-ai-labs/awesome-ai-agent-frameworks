@@ -19,6 +19,8 @@ Note: A longer, more detailed version of this list is available as an article [h
 ---
 
 ## Table of Contents
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
 1. 🥇 [Pydantic AI](#pydantic)
 2. 🥈 [OpenAI Agents SDK](#openai-agents)
 3. 🏅 [CrewAI](#crewai)
