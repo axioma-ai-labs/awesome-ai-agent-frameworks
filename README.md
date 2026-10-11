@@ -247,3 +247,4 @@ The frameworks below were **NEVER** tested by us, but they've been on our radar 
 - [n8n](https://n8n.io/) — Workflow automation platform with AI capabilities for integrating agent-like tasks. Perfect for connecting APIs and automating business processes with minimal coding.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) — Open platform for hosting and using language agents in real-world scenarios. Strong for community-driven, extensible agent deployments.
 - [Lindy](https://www.lindy.ai/) — AI agent platform for creating and managing business agents with simple prompts. Ideal for startups needing quick, user-friendly automation solutions.
+- [Tale](https://github.com/tale-project/tale) — Open-source project workspace for teams and AI agents with task coordination, persistent sandboxes, and shared review.
